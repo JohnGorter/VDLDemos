@@ -1,0 +1,8 @@
+C:\Users\johngorter\source\repos\TubaUserControls\bin\Debug\TubaUserControls.dll
+C:\Users\johngorter\source\repos\TubaUserControls\bin\Debug\TubaUserControls.pdb
+C:\Users\johngorter\source\repos\TubaUserControls\obj\Debug\TubaUserControls.csproj.CoreCompileInputs.cache
+C:\Users\johngorter\source\repos\TubaUserControls\obj\Debug\TubaUserControls.dll
+C:\Users\johngorter\source\repos\TubaUserControls\obj\Debug\TubaUserControls.pdb
+C:\Users\johngorter\source\repos\TubaUserControls\obj\Debug\TubaUserControls.MyUserControl.resources
+C:\Users\johngorter\source\repos\TubaUserControls\obj\Debug\TubaUserControls.csproj.GenerateResource.cache
+C:\Users\johngorter\source\repos\TubaUserControls\obj\Debug\TubaUserControls.csprojAssemblyReference.cache
